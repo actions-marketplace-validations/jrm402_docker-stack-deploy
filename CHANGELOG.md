@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v1.2.0
+
+### Changes
+
+- Feat: Pipe the Docker login password to the stdin instead of using the `--password` flag.
+
+## v1.1.0
+
+### Changes
+
+- Feat: Add the ability to specify custom `ssh` commands via the `ssh_command` input.
+
 ## v1.0.6
 
 ### Changes
